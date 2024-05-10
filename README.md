@@ -15,7 +15,4 @@
 ## :bar_chart: Stats
 [![Top Langs - dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiban&langs_count=10&layout=compact&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/tomiban/github-readme-stats#gh-dark-mode-only) [![Top Langs - light](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiban&langs_count=10&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/tomiban/github-readme-stats#gh-light-mode-only)
 &nbsp;&nbsp;&nbsp;
-[![Tommy's GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=tomiban&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/tomiban/github-readme-stats#gh-dark-mode-only) [![Tommy's GitHub stats - light](https://github-readme-stats.vercel.app/api?username=tomiban&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/tomiban/github-readme-stats#gh-light-mode-only)       
-
-
-<br>
+[![Tommy's GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=tomiban&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/tomiban/github-readme-stats#gh-dark-mode-only) [![Tommy's GitHub stats - light](https://github-readme-stats.vercel.app/api?username=tomiban&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/tomiban/github-readme-stats#gh-light-mode-only)

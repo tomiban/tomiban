@@ -8,7 +8,6 @@
 - 🌱 Learning Python, C#, and TypeScript.
 - :smiling_imp: Aspiring to become a full-stack developer. Currently, I'm immersing myself in mastering ASP .NET for backend development, alongside React or Angular for frontend. Essentially, I'm on a quest to absorb all aspects of web development.
 - :eyes: Seeking projects to collaborate on, eager to learn new syntax, standards, and tricks.
-- <img height=20px src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png"> Proud Arch user, by the way.
 - 🤓 I am fluent in Windows and Linux.
 - 📫 Reach me at @tbanchio on social media or tbanchio15@gmail.com.
   

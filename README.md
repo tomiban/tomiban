@@ -1,4 +1,4 @@
-# Hi there, I'm [Tommy]() :wave:
+# Hi there, I'm [Tomás]() :wave:
 [![My Skills - dark](https://skillicons.dev/icons?i=cs,dotnet,py,js,nodejs,typescript,react,angular,mongo,sqlite,postgres,html,css,tailwind,docker,postman,git,github,bash,linux,arch,windows,vscode,visualstudio,obsidian,notion,discord&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 [![My Skills - light](https://skillicons.dev/icons?i=cs,dotnet,py,js,nodejs,typescript,react,angular,mongo,sqlite,postgres,html,css,tailwind,docker,postman,git,github,bash,linux,arch,windows,vscode,visualstudio,obsidian,notion,discord=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 

@@ -4,7 +4,7 @@
 
 ## :robot: Sobre Mí
 -  Low Tek, High Life.
-- :mortar_board: Actualmente estoy cursando la carrera de Desarrollo de Software en [__Instituto Tecnológico El Molino__](https://itec-elmolino.edu.ar/).
+-  Actualmente estoy cursando la carrera de Desarrollo de Software en [__Instituto Tecnológico El Molino__](https://itec-elmolino.edu.ar/).
 -  Manejo con fluidez tanto Windows como Linux.
 -  Puedes contactarme en las redes sociales como @tbanchio o en tbanchio15@gmail.com.
   

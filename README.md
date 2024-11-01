@@ -5,9 +5,7 @@
 ## :robot: Sobre Mí
 -  Low Tek, High Life.
 -  Actualmente estoy cursando la carrera de Desarrollo de Software en [__Instituto Tecnológico El Molino__](https://itec-elmolino.edu.ar/).
--  Manejo con fluidez tanto Windows como Linux.
--  Puedes contactarme en las redes sociales como @tbanchio o en tbanchio15@gmail.com.
-  
+
 ## :bar_chart: Estadísticas
 [![Lenguajes más usados - modo oscuro](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiban&langs_count=10&layout=compact&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/tomiban/github-readme-stats#gh-dark-mode-only) [![Lenguajes más usados - modo claro](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiban&langs_count=10&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/tomiban/github-readme-stats#gh-light-mode-only)
 &nbsp;&nbsp;&nbsp;

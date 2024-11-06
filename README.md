@@ -1,6 +1,6 @@
 # ¡Hola, soy [Tomás]()! :wave:
-[![Mis Habilidades - modo oscuro](https://skillicons.dev/icons?i=cs,dotnet,nodejs,typescript,react,angular,mongo,sqlite,postgres,tailwind,docker,postman,git,github,bash,linux,arch,windows,vscode,visualstudio,obsidian,discord&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![Mis Habilidades - modo claro](https://skillicons.dev/icons?i==cs,dotnet,nodejs,typescript,react,angular,mongo,sqlite,postgres,tailwind,docker,postman,git,github,bash,linux,arch,windows,vscode,visualstudio,obsidian,discord=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
+[![Mis Habilidades - modo oscuro](https://skillicons.dev/icons?i=cs,dotnet,nodejs,typescript,react,mongo,sqlite,postgres,tailwind,docker,postman,git,github,bash,linux,arch,windows,vscode,visualstudio,obsidian,discord&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Mis Habilidades - modo claro](https://skillicons.dev/icons?i==cs,dotnet,nodejs,typescript,react,mongo,sqlite,postgres,tailwind,docker,postman,git,github,bash,linux,arch,windows,vscode,visualstudio,obsidian,discord=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 ## :robot: Sobre Mí
 -  Low Tek, High Life.

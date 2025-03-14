@@ -1,6 +1,6 @@
 ## Stack
-[![Stack - modo oscuro](https://skillicons.dev/icons?i=cs,dotnet,nodejs,typescript,react,postgres,tailwind,docker,postman,git,github,bash,linux,arch&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![Stack - modo claro](https://skillicons.dev/icons?i==cs,dotnet,nodejs,typescript,react,mongo,sqlite,postgres,tailwind,docker,postman,git,github,bash,linux,arch=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
+[![Stack - modo oscuro](https://skillicons.dev/icons?i=cs,dotnet,nodejs,typescript,react,tailwind,docker,linux&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Stack - modo claro](https://skillicons.dev/icons?i==cs,dotnet,nodejs,typescript,react,tailwind,docker,linux,arch=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 ## :robot: Sobre Mí
 -  Low Tek, High Life.

@@ -30,7 +30,7 @@ producen artefactos verificables en cada etapa, en lugar de prompts que prometen
 | Proyecto | Qué resuelve |
 | --- | --- |
 | [agentic-pm](https://github.com/tomiban/agentic-pm) | Framework de análisis funcional asistido por agentes: del relevamiento con el cliente al backlog implementable, con validación en cada etapa. |
-| [peso-a-peso-app](https://github.com/tomiban/peso-a-peso-app) | Gestión de finanzas personales full-stack con Next.js, Prisma y MariaDB sobre Google Cloud Run. |
+| [peso-a-peso-app](https://github.com/tomiban/peso-a-peso-app) | Gestión de finanzas personales full-stack con Next.js, Prisma y PostgreSQL sobre Neon, con [demo en vivo](https://peso-a-peso-app-five.vercel.app). |
 | [restaurant-clean-architecture](https://github.com/tomiban/restaurant-clean-architecture) | API .NET con Clean Architecture, CQRS con MediatR, Serilog y Docker Compose. |
 | [hotel-management-sys](https://github.com/tomiban/hotel-management-sys) | Sistema de reservas de hotel en C# .NET con WinForms y persistencia relacional. |
 | [veterinariapp-API](https://github.com/tomiban/veterinariapp-API) | API .NET 8 para gestión de pacientes, dueños y vacunas, con cliente web en [Angular 17](https://github.com/tomiban/veterinariapp-FE). |

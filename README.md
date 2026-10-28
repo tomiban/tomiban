@@ -33,7 +33,7 @@ producen artefactos verificables en cada etapa, en lugar de prompts que prometen
 | [peso-a-peso-app](https://github.com/tomiban/peso-a-peso-app) | Gestión de finanzas personales full-stack con Next.js, Prisma y PostgreSQL sobre Neon, con [demo en vivo](https://peso-a-peso-app-five.vercel.app). |
 | [restaurant-clean-architecture](https://github.com/tomiban/restaurant-clean-architecture) | API .NET con Clean Architecture, CQRS con MediatR, Serilog y Docker Compose. |
 | [hotel-management-sys](https://github.com/tomiban/hotel-management-sys) | Sistema de reservas de hotel en C# .NET con WinForms y persistencia relacional. |
-| [veterinariapp-API](https://github.com/tomiban/veterinariapp-API) | API .NET 8 para gestión de pacientes, dueños y vacunas, con cliente web en [Angular 17](https://github.com/tomiban/veterinariapp-FE). |
+| [veterinariapp](https://github.com/tomiban/veterinariapp-API) | API .NET 8 como contenedor en Vercel sobre PostgreSQL, con cliente [Angular 17](https://github.com/tomiban/veterinariapp-FE). [Demo](https://veterinariapp-fe.vercel.app) · [API](https://veterinariapp-api.vercel.app/swagger/index.html) |
 | [mi-tienda-react](https://github.com/tomiban/mi-tienda-react) | Ecommerce con React y Firebase, con [demo en vivo](https://tomiban.github.io/mi-tienda-react/). |
 
 ## Stack

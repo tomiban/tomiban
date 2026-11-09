@@ -11,7 +11,7 @@ La sesión principal corre en **Sonnet 5.5** y coordina. Delega en cuatro subage
 
 ## Instalación
 
-Necesitas `bash`, `python3` y `git`. En Windows, usa WSL o copia los archivos a mano (ver más abajo).
+`install.sh` es un único archivo que trae todo adentro, así que alcanza con descargarlo solo. Necesitas `bash`, `python3` y `git`. En Windows, usa WSL o haz la instalación manual (ver más abajo).
 
 ### Para todos tus proyectos (instalación local)
 
@@ -81,4 +81,11 @@ CLAUDE_FLOW_COMMIT=1 scripts/claude-flow.sh "..."   # además permite git add / 
 
 ## Instalación manual
 
-Copia `files/.claude/agents/*.md` a `~/.claude/agents/` (o a `.claude/agents/` del repo). Agrega el contenido de `files/CLAUDE.agents.md` a tu `CLAUDE.md`. En `settings.json`, pon `"model": "claude-sonnet-5-5"`.
+```bash
+./install.sh --dump ./plantillas
+```
+
+Ese comando escribe las plantillas sin instalar nada. Después:
+1. Copia `plantillas/.claude/agents/*.md` a `~/.claude/agents/` o a `.claude/agents/` del repo.
+2. Agrega el contenido de `plantillas/CLAUDE.agents.md` a tu `CLAUDE.md`.
+3. En `settings.json`, pon `"model": "claude-sonnet-5-5"`.
